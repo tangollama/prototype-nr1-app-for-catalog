@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "prototype-nr1-app-for-catalog-launcher",
+    "displayName": "PrototypeNr1AppForCatalogLauncher",
+    "description": "Describe me",
+    "rootNerdletId": "prototype-nr1-app-for-catalog-nerdlet"
+}
